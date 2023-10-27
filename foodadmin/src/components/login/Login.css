@@ -1,0 +1,74 @@
+
+.card{
+    /* margin-top: 20%; */
+    /* margin-left: 20%; */
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+    border-radius: 24px;
+    /* width: 40%; */
+    /* justify-content: center;
+    align-items: center; */
+    }
+    
+    .alignment{
+        justify-content: center;
+        align-items: center;
+        margin-top: 150px;
+    }
+    
+    .header-text{
+    font-style: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #2A406A;}
+    
+
+            
+        .sign-in-button{
+        background: #2A406A;
+        font-size: 18px;
+        box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.25);
+        border-radius: 24px;
+        width: 150px;
+        height: 40px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    border-style: none;} 
+        
+
+    
+    .sign-up-button{
+
+        border:1px solid #2A406A;
+        font-size: 18px;
+        box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.25);
+        border-radius: 24px;
+        width: 150px;
+        height: 40px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;} 
+        
+        .form-label{
+            margin-top: 25px;
+        }
+
+    
+
+    
+    
+        @media only screen and (max-width: 390px) {
+            .card {left: 12px; width: 100%;height: 350px;}
+            /* .header{left: 0px; width: 360px;} */
+            /* .input-box-email{left: 40px; top: 82px;} */
+            /* .text-email{left: 25px; top: 52px;} */
+            /* .text-password{left:10px;margin-top: 5px; top: 140px;} */
+            /* .input-box-password{left: 40px; top: 175px;} */
+            /* .sign-in-button{top: 250px;height: 50px;} */
+            /* .forgot-your-password{font-size: 13.5px;top: 290px;} */
+            
+            
+          }

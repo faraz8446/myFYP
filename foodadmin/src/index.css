@@ -1,0 +1,17 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Inder&display=swap"); */
+
+body {
+  margin: 0;
+
+  font-family: Inder;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://img.freepik.com/free-vector/white-background-with-shiny-lines-design_1017-28446.jpg?w=2000');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
